@@ -1,0 +1,35 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "what's up", "good day"],
+    "responses": ["Hey!", "Hello", "How is it going?", "What can I do for you?"]
+    }, 
+    {"tag": "goodbye",
+    "patterns": ["bye", "goodbye", "have a nice day", "cya", "see you later"],
+    "responses": ["Talk to you later", "Have a good day", "Bye!"]
+    },
+    {"tag": "services",
+    "patterns": ["what do you sell", "what do you offer", "what kind of services do you provide"],
+    "responses": ["We offer professional photography and videography services", "Our services include professional photography and videography"]
+    },
+    {"tag": "prices",
+    "patterns": ["What are your prices like?", "prices?", "how much does it cost", "for your services, how much does it cost"],
+    "responses": ["The full price list is on rsbcaptures.ca", "We have preset packages available on rsbcaptures.ca, but we can also cater according to your budget"]
+    },
+    {"tag": "subjects",
+    "patterns": ["What is your specialty", "What do you mostly shoot", "Any area of expertise when it comes to photography", "Favourite subjects to shoot"],
+    "responses": ["I mostly am an automotive photographer, along with some product photography", "I love to take photos of cars and different products", "I cater to automotive enthusiasts looking to cherish their cars in a digital way"]
+    },
+    {"tag": "contact",
+    "patterns": ["where can I book", "where can I see your work", "are you on social media", "where can I see your previous work", "how can I contact you"],
+    "responses": ["For more details, visit rsbcaptures.ca, or DM me on Instagram at @rsb.captures", "To see my previous work or to get in touch, check out @rsb.captures on Instagram"]
+    },
+    {"tag": "products",
+    "patterns": ["any tangible products available?", "do you offer prints", "what about custom merch?", "what else can I get with my photo session"],
+    "responses": ["Posters, prints, and custom merch are all available, just contact me via Instagram and let's work out the details!"]
+    },
+    {"tag": "jokes",
+    "patterns": ["tell me a joke", "any other cool things?", "talk to me"],
+    "responses": ["What did the buffalo say to his son when he was going to school? Bison"]
+    }
+]}
+
