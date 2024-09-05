@@ -1,3 +1,5 @@
+SOME NOTES REGARDING THE PROJECT
+
 to train the model, these will be split up into a bag of words - an array with these words split up
 think about it like a plot of points: the x value is dependent on the index in the array of the words, and the y value is the tag associated
 training the model will enable it to put together various words, and match them up with the premade patterns in each tag
